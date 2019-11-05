@@ -1,0 +1,14 @@
+style: is-light
+height: is-small
+items:
+  - title: Resources
+    subtitle: Learning and Development resources
+    icon: fa-space-shuttle
+    call_to_action_name: View Resources
+    call_to_action_link: /resources/
+
+  - title: Blog
+    subtitle: Blog Articles
+    icon: fa-space-shuttle
+    call_to_action_name: View Blog
+    call_to_action_link: /blog/
